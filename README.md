@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **1914386/1914386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1914386%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://1914386.github.io/)](https://1914386.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sml07113@gmail.com)](mailto:sml07113@gmail.com)
+
+
+✍️[GitHub Blog](https://1914386.github.io)  
+
+☀️[Notion Profile](https://www.notion.so/Minji-Kim-3739030d85564f689b159698c4ead9c2)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1914386&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1914386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
