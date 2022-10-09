@@ -3,7 +3,7 @@
 <p align="center">
   Hi there👋 <br/>
   I'm majoring in IT Engineering at Sookmyung Women's University. <br/>
-  And I'm a member of Google Developer Student Clubs(GDSC) Sookmyung. <br/>
+  And I'm a core member of Google Developer Student Clubs(GDSC) Sookmyung. <br/>
   Feel free to contact me!
 </p>
 
@@ -19,14 +19,15 @@
 <p align="center"> I’m currently learning ... </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> &nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/> &nbsp
   <br>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp 
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/> &nbsp
 </p>
 
 <p align="center">
