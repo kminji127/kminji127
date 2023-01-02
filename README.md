@@ -1,4 +1,4 @@
-s![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kim%20Minji&fontSize=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kim%20Minji&fontSize=70&fontAlignY=40)
 
 <p align="center">
   Hi there👋 <br/>
