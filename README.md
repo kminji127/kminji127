@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kim%20Minji&fontSize=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Kim%20Minji&fontSize=40)
 
 <p align="center">
   Hi there👋 <br/>
@@ -31,7 +31,7 @@
 
 | **Organization** | **Contents** | **Period** |
 |--------|--------|--------|
-| Sullvan Project | - Volunteer as a web programming teacher | 2020.10 ~ 2021.02 |
-| [Google Developer Student Clubs<br/> (GDSC) Sookmyung](https://dsc.community.dev/sookmyung-womens-university/) | - Member of React, Spring Boot, Algorithm Study<br/> - Lead of React Study<br/> - Speaker Session<br/> - 🏆 Top 50 for Solution Challenge 2022 - [I'm your Freesia](https://github.com/dsc-sookmyung/2022-Freesia-SolutionChallenge)<br/> - 🥉 3rd Place for GDSC KR Winter Cup - [I can read](https://github.com/dsc-sookmyung/2023-Icanread-SolutionChallenge)<br/> | - 2nd Member (2021.09 ~ 2022.07)<br/> - 3rd Core Member (2022.09 ~ 2023.05) |
-| [Nexters](http://teamnexters.com/) | 21th, 22nd Frontend developer<br/> - [Proofer](https://github.com/Nexters/opm)<br/> - [책조각](https://github.com/Nexters/book-web) | - 21th (2022.07 ~ 2023.08)<br/> - 22th (2023.01 ~ 2023.02) |
+| Sullvan Project | Volunteer as a web programming teacher | 2020.10 ~ 2021.02 |
+| [Google Developer Student Clubs<br/> (GDSC) Sookmyung](https://dsc.community.dev/sookmyung-womens-university/) | - 🏆 Top 50 for Solution Challenge 2022 - [I'm your Freesia](https://github.com/dsc-sookmyung/2022-Freesia-SolutionChallenge)<br/> - 🥉 3rd Place for GDSC KR Winter Cup - [I can read](https://github.com/dsc-sookmyung/2023-Icanread-SolutionChallenge)<br/> | - 2nd Member (2021.09 ~ 2022.07)<br/> - 3rd Core Member (2022.09 ~ 2023.05) |
+| [Nexters](http://teamnexters.com/) | 21th, 22nd Frontend developer ([Proofer](https://github.com/Nexters/opm), [책조각](https://github.com/Nexters/book-web)) | - 21th (2022.07 ~ 2023.08)<br/> - 22th (2023.01 ~ 2023.02) |
 | [UnitedBorders](https://www.unitedborders.co/) | Backend developer Intern | 2023.09 ~ 2023.12 |
