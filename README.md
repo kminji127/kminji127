@@ -3,7 +3,6 @@
 <p align="center">
   Hi there👋 <br/>
   I'm majoring in IT Engineering at Sookmyung Women's University. <br/>
-  And I'm a core member of Google Developer Student Clubs(GDSC) Sookmyung. <br/>
   Feel free to contact me!
 </p>
 
@@ -25,10 +24,14 @@
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> &nbsp 
-
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kminji127&show_icons=true"/>
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=smjan27">
-</p>
+<hr/>
+<h3 align="center">🏃‍♀️ Experience 🏃‍♀️</h3>
+
+| **Organization** | **Contents** | **Period** |
+|--------|--------|--------|
+| Sullvan Project | - Volunteer as a web programming teacher | 2020.10 ~ 2021.02 |
+| [Google Developer Student Clubs<br/> (GDSC) Sookmyung](https://dsc.community.dev/sookmyung-womens-university/) | - Member of React, Spring Boot, Algorithm Study<br/> - Lead of React Study<br/> - Speaker Session<br/> - 🏆 Top 50 for Solution Challenge 2022 - [I'm your Freesia](https://github.com/dsc-sookmyung/2022-Freesia-SolutionChallenge)<br/> - 🥉 3rd Place for GDSC KR Winter Cup - [I can read](https://github.com/dsc-sookmyung/2023-Icanread-SolutionChallenge)<br/> | - 2nd Member (2021.09 ~ 2022.07)<br/> - 3rd Core Member (2022.09 ~ 2023.05) |
+| [Nexters](http://teamnexters.com/) | 21th, 22nd Frontend developer<br/> - [Proofer](https://github.com/Nexters/opm)<br/> - [책조각](https://github.com/Nexters/book-web) | - 21th (2022.07 ~ 2023.08)<br/> - 22th (2023.01 ~ 2023.02) |
+| [UnitedBorders](https://www.unitedborders.co/) | Backend developer Intern | 2023.09 ~ 2023.12 |
