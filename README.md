@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sml07113@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+  <a href="mailto:kminji.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
   <a href="https://www.linkedin.com/in/smjan27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
   <a href="https://velog.io/@smjan27"><img src="https://img.shields.io/badge/Tech%20Blog-21c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> &nbsp
 </p>
