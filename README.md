@@ -31,7 +31,7 @@
 
 | **Organization** | **Contents** | **Period** |
 |--------|--------|--------|
-| Sullvan Project | Volunteer as a web programming teacher | 2020.10 ~ 2021.02 |
+| [스노로즈(snorose)](https://www.snorose.com/) | Server Developer | 2020.11 ~ |
 | [Google Developer Student Clubs<br/> (GDSC) Sookmyung](https://dsc.community.dev/sookmyung-womens-university/) | - 🏆 Top 50 for Solution Challenge 2022 - [I'm your Freesia](https://github.com/dsc-sookmyung/2022-Freesia-SolutionChallenge)<br/> - 🥉 3rd Place for GDSC KR Winter Cup - [I can read](https://github.com/dsc-sookmyung/2023-Icanread-SolutionChallenge)<br/> | - 2nd Member (2021.09 ~ 2022.07)<br/> - 3rd Core Member (2022.09 ~ 2023.05) |
 | [Nexters](http://teamnexters.com/) | 21th, 22nd Frontend developer ([Proofer](https://github.com/Nexters/opm), [책조각](https://github.com/Nexters/book-web)) | - 21th (2022.07 ~ 2023.08)<br/> - 22th (2023.01 ~ 2023.02) |
 | [UnitedBorders](https://www.unitedborders.co/) | Backend developer Intern | 2023.09 ~ 2023.12 |
